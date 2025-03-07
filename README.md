@@ -4,9 +4,3 @@
 💼 Dev at Bradesco  
 📚 System Analyst and Development at @Mackenzie  
 🎓 Software Engineering at @São Judas  
-
-## Find me elsewhere 🌍
-
-🐦 [Twitter](#)  
-💼 [LinkedIn](#)  
-📷 [Instagram](#)  
