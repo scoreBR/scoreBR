@@ -1,5 +1,12 @@
-# Hi, I am Leonardo!
+## Hey, I'm Leonardo! 👋
 
-From Osasco, São Paulo to the World
-Dev at Bradesco Custody
-System Analyst and Development at Mackenzie, Software Engineering at São Judas
+🌎 Living in Osasco, São Paulo, Brazil  
+💼 Dev at Bradesco  
+📚 System Analyst and Development at @Mackenzie  
+🎓 Software Engineering at @São Judas  
+
+## Find me elsewhere 🌍
+
+🐦 [Twitter](#)  
+💼 [LinkedIn](#)  
+📷 [Instagram](#)  
